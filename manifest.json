@@ -1,0 +1,9 @@
+{
+  "name": "Haxe11s_Fun_Only_Modpack",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/a1russell/lethal-company-mod--fun-only",
+  "description": "",
+  "dependencies": [
+    "sunnobunno-YippeeMod-1.2.3"
+  ]
+}
